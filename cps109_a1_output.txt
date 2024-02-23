@@ -1,0 +1,27 @@
+----- Welcome To The MILLIE HTML FORM BUILDER ---------
+Select your options from below by entering a number:
+ 2. Add to your existing your form(file should be in this directory and be called test.html) 
+ 3. Exit the program 
+2
+Your form information is as follows: 
+ Form Title: Contact Form 
+ Total # of Elements: 0 
+ # of Select Inputs: 0 
+ # of Text Inputs: 0 
+ # of Date Inputs:0 
+ # of MC Input: 0 
+    What would you like to add to your form? (Enter Number):
+ 1.Select/Dropdown  
+ 2.Text Input 
+ 3. Date Input 
+ 4. Multiple Choice/Radio Button 
+2
+Please enter the label for your element...
+test
+Select your options from below by entering a number:
+ 2. Add to your existing your form(file should be in this directory and be called test.html) 
+ 3. Exit the program 
+3
+
+ 
+ PLEASE SEE test.html FILE IN SAME DIRECTORY
